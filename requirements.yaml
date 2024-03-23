@@ -1,5 +1,5 @@
-pip install numpy
-pip install gtts
-pip install pydub
-pip install opencv-python
-pip install mediapipe
+pip install numpy==1.21.0
+pip install gtts==2.2.3
+pip install pydub==0.25.1
+pip install opencv-python==4.5.2.54
+pip install mediapipe==0.8.5
